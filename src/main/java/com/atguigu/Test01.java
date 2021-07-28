@@ -7,5 +7,6 @@ public class Test01 {
         ArrayList arrayList = new ArrayList();
         System.out.println("test");
         System.out.println("test2");
+        System.out.println("t3");
     }
 }
